@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Prof. Aishik Ghosh's research group
+title: Prof. Aishik Ghosh's Group
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Website for Prof. Aishik Ghosh's research group at the intersection of AI and physics in the School of Physics at Georgia Institute of Technology
@@ -88,7 +88,8 @@ footer:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
     - label: "bluesky"
-      icon: "fab fa-fw fa-slyesky"
+      #icon: "fab fa-fw fa-slyesky"
+      icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/aishikghosh.bsky.social"
 
 defaults:
