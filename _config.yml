@@ -86,9 +86,9 @@ footer:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
-    - label: "bluesky"
-      icon: "fab fa-fw fa-slyesky"
-      url: "https://bsky.app/profile/aishikghosh.bsky.social"
+    # - label: "bluesky"
+    #   icon: "fab fa-fw fa-slyesky"
+    #   url: "https://bsky.app/profile/aishikghosh.bsky.social"
 
 defaults:
   # _posts
