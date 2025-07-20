@@ -77,12 +77,12 @@ author:
 
 footer:
   links:
-  - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/Aishik_Ghosh_"
-  - label: "bluesky"
-      icon: "fa-brands fa-bluesky"
-      url: "https://bsky.app/profile/aishikghosh.bsky.social"
+  # - label: "Twitter"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://x.com/Aishik_Ghosh_"
+  # - label: "bluesky"
+  #     icon: "fa-brands fa-bluesky"
+  #     url: "https://bsky.app/profile/aishikghosh.bsky.social"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/"
