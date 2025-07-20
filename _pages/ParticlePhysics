@@ -1,0 +1,5 @@
+---
+permalink: /ParticlePhysics/
+title: "Particle Physics"
+---
+Raw data from experiments or observatories are complex and high dimensional. We design neural simulation-based inference techniques to rapidly analyse these data without having to make simplifying assumptions that have been at the core of traditional statistical inference paradigms. To deploy such powerful algorithms, one also needs to ensure their robustness and reliability. We therefore design practical uncertainty quantification to address challenges of trustworthiness. We are also interested in combining the advantages of Bayesian and frequentist concepts and apply them across domains. A practical design of such techniques has recently transformed Higgs studies at the Large Hadron Collider, with many more developments now under way. These methods have also shown promise in the studying the interior of neutron stars. On the core statistics side, we are also studying alternatives to the likelihood ratio test that could transform both measurements and searches for new phenomena across experiments.
