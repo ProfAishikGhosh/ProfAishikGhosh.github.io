@@ -55,13 +55,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Aishik Ghosh"
+  avatar : "/assets/images/AishikReduced.png"
+  bio    : "Assistant Professor of Physics at Georgia Tech"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://"
+    - label: "bluesky"
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/aishikghosh.bsky.social"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/Aishik_Ghosh_"
@@ -71,14 +74,13 @@ author:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
-    - label: "bluesky"
-      #icon: "fab fa-fw fa-slyesky"
-      icon: "fa-brands fa-bluesky"
-      url: "https://bsky.app/profile/aishikghosh.bsky.social"
 
 footer:
   links:
-    - label: "Twitter"
+  - label: "bluesky"
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/aishikghosh.bsky.social"
+  - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/Aishik_Ghosh_"
     # - label: "GitHub"
@@ -87,11 +89,7 @@ footer:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
-    - label: "bluesky"
-      #icon: "fab fa-fw fa-slyesky"
-      icon: "fa-brands fa-bluesky"
-      url: "https://bsky.app/profile/aishikghosh.bsky.social"
-
+    
 defaults:
   # _posts
   - scope:
