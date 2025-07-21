@@ -3,8 +3,8 @@ main:
     url: /
   - title: "News"
     url: /news/
-  - title: "Particles"
-    url: /ParticlePhysics/
+  # - title: "Particles"
+  #   url: /ParticlePhysics/
   # - title: "Categories"
   #   url: /categories/
   # - title: "Tags"
