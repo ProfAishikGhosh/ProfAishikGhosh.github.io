@@ -1,5 +1,5 @@
 ---
-title: "Breakthrough prize"
+title: "Breakthrough Prize"
 categories:
   - News Article
 tags:
