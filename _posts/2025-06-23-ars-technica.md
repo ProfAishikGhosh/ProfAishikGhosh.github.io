@@ -1,5 +1,5 @@
 ---
-title: "Ars Technica article on solving the quantum interference challenge with AI"
+title: "Ars Technica article on quantum interference and AI"
 categories:
   - News Article
 tags:
