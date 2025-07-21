@@ -1,7 +1,7 @@
 ---
 title: "Breakthough prize"
 categories:
-  - Article
+  - News Article
 tags:
   - Breakthrough prize
   - Higgs physics
