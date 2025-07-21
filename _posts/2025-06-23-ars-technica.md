@@ -1,5 +1,5 @@
 ---
-title: "Ars Technica article on quantum interference and AI"
+title: "Ars Technica covers quantum interference and AI work"
 categories:
   - News Article
 tags:
