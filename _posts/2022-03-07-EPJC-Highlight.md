@@ -1,5 +1,5 @@
 ---
-title: "Featured on cover of EPJC, with highlight article"
+title: "UQ result featured on cover of EPJC, with highlight article"
 categories:
   - News Article
 tags:
