@@ -1,9 +1,10 @@
 ---
-title: "Ars Technica Article on Solving the Quantum Interference Challenge"
+title: "Ars Technica article on solving the quantum interference challenge with AI"
 categories:
   - Blog
 tags:
-  - link
-  - Post Formats
+  - Higgs physics
+  - Statistical inference
+  - ATLAS experiment
 link: https://arstechnica.com/science/2025/06/how-a-grad-student-got-lhc-data-to-play-nice-with-quantum-interference/
 ---
