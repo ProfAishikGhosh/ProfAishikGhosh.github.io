@@ -5,5 +5,5 @@ categories:
 tags:
   - link
   - Post Formats
-link: [2025-06-23-ars-technica.md](https://arstechnica.com/science/2025/06/how-a-grad-student-got-lhc-data-to-play-nice-with-quantum-interference/)
+link: https://arstechnica.com/science/2025/06/how-a-grad-student-got-lhc-data-to-play-nice-with-quantum-interference/
 ---
