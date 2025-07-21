@@ -1,7 +1,7 @@
 ---
 title: "Ars Technica article on solving the quantum interference challenge with AI"
 categories:
-  - Blog
+  - News Article
 tags:
   - Higgs physics
   - Statistical inference
