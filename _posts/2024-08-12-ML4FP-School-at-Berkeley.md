@@ -1,3 +1,4 @@
+---
 title: "Machine Learning for Fundamental Physics School 2024"
 categories:
   - Event
