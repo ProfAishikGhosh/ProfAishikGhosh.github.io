@@ -1,6 +1,6 @@
 ---
 title: "News"
 permalink: /news/
-layout: tags
+layout: splash
 author_profile: false
 ---
