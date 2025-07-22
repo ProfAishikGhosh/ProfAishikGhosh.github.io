@@ -1,5 +1,5 @@
 ---
-title: "UQ work featured on cover of EPJC and in highlight article"
+title: "Uncertainty quantification work featured on cover of EPJC and in highlight article"
 categories:
   - News Article
 tags:
