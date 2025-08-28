@@ -1,6 +1,6 @@
 ---
 permalink: /JoinGroup/
-title: "About"
+title: "Join Group"
 ---
 
 - We're hiring a postdoc in our group: https://inspirehep.net/jobs/2962185
