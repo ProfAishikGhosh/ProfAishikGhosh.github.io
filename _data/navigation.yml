@@ -3,8 +3,8 @@ main:
     url: /
   - title: "News"
     url: /news/
-  - title: "Join Us"
-    url: /JoinUs/
+  - title: "Join Group"
+    url: /JoinOurGroup/
   # - title: "Particles"
   #   url: /ParticlePhysics/
   # - title: "Categories"
