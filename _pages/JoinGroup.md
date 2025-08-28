@@ -1,3 +1,8 @@
+---
+permalink: /JoinGroup/
+title: "About"
+---
+
 - We're hiring a postdoc in our group: https://inspirehep.net/jobs/2962185
 
 - Undergraduates and master's students are welcome to reach out. Please mention what interests you about our work. Also, please describe any relevant computing skills you already possess.
