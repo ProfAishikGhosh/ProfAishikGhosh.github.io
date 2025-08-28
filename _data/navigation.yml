@@ -4,7 +4,7 @@ main:
   - title: "News"
     url: /news/
   - title: "Join Group"
-    url: /JoinGroup/
+    url: /joingroup/
   # - title: "Particles"
   #   url: /ParticlePhysics/
   # - title: "Categories"
