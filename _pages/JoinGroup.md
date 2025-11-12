@@ -2,7 +2,7 @@
 permalink: /JoinGroup/
 title: "Join Group"
 ---
-**Postdoctoral Researcher Position Available**
+**Postdoctoral Researcher Position(s) Available**
 
 We are seeking a highly motivated postdoctoral researcher to join our team. Interested candidates can find more information on the job posting [here](https://inspirehep.net/jobs/2962185).
 
