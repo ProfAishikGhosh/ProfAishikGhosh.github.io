@@ -12,7 +12,7 @@ Undergraduates and master's students are encouraged to reach out. Please mention
 
 **Prospective Graduate Students**
 
-We are growing and invite prospective graduate students to apply to Georgia Tech's [graduate program](https://physics.gatech.edu/academics/graduate/admissions-info). We will update portal next year with the newly launched research directions (AI and fundamental physics), so <ins>please select 'astrophysics' if applying in 2025</ins>. When applying, please mention why you're interested in joining our group. You can join our group as a student in the School of Physics, the School of Computational Science and Engineering, or potentially another school. Georgia Tech encourages interdisciplinary collaboration, and working across schools and colleges is common.
+We are growing and invite prospective graduate students to apply to Georgia Tech's [graduate program](https://physics.gatech.edu/academics/graduate/admissions-info). In the grad application portal, you can select research directions AI/ML, fundamental physics or astrophysics, depdning on your interests. When applying, please mention why you're interested in joining our group. You can join our group as a student in the School of Physics, the School of Computational Science and Engineering, or potentially another school. Georgia Tech encourages interdisciplinary collaboration, and working across schools and colleges is common.
 
 **Unique Facilities at Georgia Tech**
 
