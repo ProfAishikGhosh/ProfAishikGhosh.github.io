@@ -18,4 +18,4 @@ feature_row:
     excerpt: "GT Physics & Math Undergraduate"
 ---
 
-{% include feature_row class="members-row" %}
+{% include feature_row %}
