@@ -3,6 +3,8 @@ main:
     url: /
   - title: "News"
     url: /news/
+  - title: "Members"
+    url: /Members/
   - title: "Join Group"
     url: /JoinGroup/
   # - title: "Particles"
