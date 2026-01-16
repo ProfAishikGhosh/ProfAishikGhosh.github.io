@@ -32,18 +32,18 @@ feature_row2:
     title: "Piyush Jha"
     excerpt: "GT CS (co-advised)"
     image_caption: ""
-# postdoc:
-#  - excerpt: 'Postdoc'
-# feature_row3:
- # - image_path: /assets/images/hiring.jpeg
- #   alt: "hiring"
- #   title: ""
- #   excerpt: ""
- #   image_caption: ""
+ postdoc:
+  - excerpt: 'Postdoc'
+ feature_row3:
+  - image_path: /assets/images/hiring.jpeg
+    alt: ""
+    title: ""
+    excerpt: ""
+    image_caption: ""
 ---
 {% include feature_row id="undergrad" type="center" %}
 {% include feature_row %}
 {% include feature_row id="grad" type="center" %}
 {% include feature_row id="feature_row2" %}
 {% include feature_row id="postdoc" type="center" %}
-{% include feature_row id="feature_row3" %}
+# {% include feature_row id="feature_row3" %}
