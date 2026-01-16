@@ -18,7 +18,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Prof. Aishik Ghosh's AI & physics research group at Georgia Tech
 twitter_username: Aishik_Ghosh_
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
