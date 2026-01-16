@@ -45,11 +45,12 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+url: "https://profaishikghosh.github.io"
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  url: "https://profaishikghosh.github.io"
   - jekyll-gist
   - jekyll-feed
   - jemoji
