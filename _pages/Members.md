@@ -18,3 +18,4 @@ feature_row:
     excerpt: "GT Physics & Math Undergraduate"
     image_caption: ""
 ---
+{% include feature_row %}
