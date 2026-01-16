@@ -33,13 +33,13 @@ feature_row2:
     excerpt: "GT CS (co-advised)"
     image_caption: ""
 postdoc:
-  - excerpt: 'Postdoctoral Scholar'
-feature_row3:
-  - image_path: /assets/images/hiring.jpeg
-    alt: "hiring"
-    title: ""
-    excerpt: ""
-    image_caption: ""
+  - excerpt: 'Postdoc'
+# feature_row3:
+ # - image_path: /assets/images/hiring.jpeg
+ #   alt: "hiring"
+ #   title: ""
+ #   excerpt: ""
+ #   image_caption: ""
 ---
 {% include feature_row id="undergrad" type="center" %}
 {% include feature_row %}
