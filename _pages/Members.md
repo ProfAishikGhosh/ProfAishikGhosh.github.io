@@ -17,15 +17,16 @@ feature_row:
     title: "Yulin Guo"
     excerpt: "GT Math & Physics Undergrad"
     image_caption: ""
-  # - image_path: /assets/images/PiyushJha.jpeg
-  #  alt: "Chuanxin Wang"
-  #  title: "Chuanxin Wang"
-  #  excerpt: "GT Physics Grad Student"
-  #  image_caption: ""
-  # - image_path: /assets/images/PiyushJha.jpeg
-  #  alt: "Piyush Jha"
-  #  title: "Piyush Jha"
-  #  excerpt: "GT CS Grad Student (co-advised)"
-  #  image_caption: ""
+feature_row2:
+  - image_path: /assets/images/PiyushJha.jpeg
+    alt: "Chuanxin Wang"
+    title: "Chuanxin Wang"
+    excerpt: "GT Physics Grad Student"
+    image_caption: ""
+  - image_path: /assets/images/PiyushJha.jpeg
+    alt: "Piyush Jha"
+    title: "Piyush Jha"
+    excerpt: "GT CS Grad Student (co-advised)"
+    image_caption: ""
 ---
 {% include feature_row %}
