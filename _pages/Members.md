@@ -19,4 +19,3 @@ feature_row:
     image_caption: ""
 ---
 {% include feature_row %}
-{% include feature_row 1%}
