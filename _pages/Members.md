@@ -17,8 +17,6 @@ feature_row:
     title: "Yulin Guo"
     excerpt: "GT Math & Physics Undergrad"
     image_caption: ""
-- none:
-  title: "Chuanxin Wang"
   # - image_path: /assets/images/PiyushJha.jpeg
   #  alt: "Chuanxin Wang"
   #  title: "Chuanxin Wang"
@@ -29,6 +27,6 @@ feature_row:
   #  title: "Piyush Jha"
   #  excerpt: "GT CS Grad Student (co-advised)"
   #  image_caption: ""
-
+"Chuanxin Wang"
 ---
 {% include feature_row %}
