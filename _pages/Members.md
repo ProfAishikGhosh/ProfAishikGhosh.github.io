@@ -35,7 +35,7 @@ feature_row2:
 postdoc:
   - excerpt: 'Postdoctoral Scholar'
 feature_row3:
- - image_path: /assets/images/hiring.jpeg
+  - image_path: /assets/images/hiring.jpeg
     alt: "hiring"
     title: ""
     excerpt: ""
