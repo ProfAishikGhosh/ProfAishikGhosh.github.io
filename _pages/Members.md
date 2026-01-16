@@ -20,4 +20,4 @@ feature_row:
     image_caption: ""
 ---
 
-{% include feature_row type="left" %}
+{% include feature_row %}
