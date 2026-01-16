@@ -25,7 +25,7 @@ feature_row:
   - image_path: /assets/images/PiyushJha.jpeg
     alt: "Piyush Jha"
     title: "Piyush Jha"
-    excerpt: "GT CS Graduate Student"
+    excerpt: "GT CS Graduate Student (co-advised)"
     image_caption: ""
 
 
