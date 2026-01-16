@@ -7,16 +7,6 @@ header:
   overlay_filter: "0.1"
 
 feature_row:
-  - image_path: /assets/images/Mani.jpeg
-    alt: "Mani Dehghan"
-    title: "Mani Dehghan"
-    excerpt: "GT Physics Undergraduate"
-    image_caption: ""
-  - image_path: /assets/images/Yulin.jpg
-    alt: "Yulin Guo"
-    title: "Yulin Guo"
-    excerpt: "GT Math & Physics Undergrad"
-    image_caption: ""
   - image_path: /assets/images/PiyushJha.jpeg
     alt: "Piyush Jha"
     title: "Chuanxin Wang"
@@ -26,6 +16,16 @@ feature_row:
     alt: "Piyush Jha"
     title: "Piyush Jha"
     excerpt: "GT CS Graduate Student (co-advised)"
+    image_caption: ""
+  - image_path: /assets/images/Mani.jpeg
+    alt: "Mani Dehghan"
+    title: "Mani Dehghan"
+    excerpt: "GT Physics Undergraduate"
+    image_caption: ""
+  - image_path: /assets/images/Yulin.jpg
+    alt: "Yulin Guo"
+    title: "Yulin Guo"
+    excerpt: "GT Math & Physics Undergrad"
     image_caption: ""
 
 
