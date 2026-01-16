@@ -44,5 +44,6 @@ postdoc:
 # {% include feature_row id="undergrad" type="center" %}
 ## Undergraduate Students
 {% include feature_row %}
-{% include feature_row id="grad" type="center" %}
+# {% include feature_row id="grad" type="center" %}
+## Graduate Students
 {% include feature_row id="feature_row2" %}
