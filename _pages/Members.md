@@ -32,8 +32,8 @@ feature_row2:
     title: "Piyush Jha"
     excerpt: "GT CS (co-advised)"
     image_caption: ""
-postdoc:
-  - excerpt: 'Postdoc'
+# postdoc:
+#  - excerpt: 'Postdoc'
 # feature_row3:
  # - image_path: /assets/images/hiring.jpeg
  #   alt: "hiring"
