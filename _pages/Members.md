@@ -12,7 +12,7 @@ feature_row:
     alt: "Mani Dehghan"
     title: "Mani Dehghan"
     excerpt: "GT Physics Undergraduate"
-  - image_path: assets/images/Yulin.jpeg
+  - image_path: assets/images/Yulin.jpg
     alt: "Yulin Guo"
     title: "Yulin Guo"
     excerpt: "GT Physics & Math Undergraduate"
