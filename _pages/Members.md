@@ -15,7 +15,19 @@ feature_row:
   - image_path: /assets/images/Yulin.jpg
     alt: "Yulin Guo"
     title: "Yulin Guo"
-    excerpt: "GT Math & Physics Undergraduate"
+    excerpt: "GT Math & Physics Undergrad"
     image_caption: ""
+  - image_path: /assets/images/PiyushJha.jpeg
+    alt: "Piyush Jha"
+    title: "Chuanxin Wang"
+    excerpt: "GT Physics Graduate Student"
+    image_caption: ""
+  - image_path: /assets/images/PiyushJha.jpeg
+    alt: "Piyush Jha"
+    title: "Piyush Jha"
+    excerpt: "GT CS Graduate Student"
+    image_caption: ""
+
+
 ---
 {% include feature_row %}
