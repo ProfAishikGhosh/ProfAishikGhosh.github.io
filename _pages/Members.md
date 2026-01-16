@@ -8,19 +8,19 @@ header:
 
 feature_row:
   - image_path: /assets/images/PiyushJha.jpeg
-    alt: "Piyush Jha"
+    alt: "Chuanxin Wang"
     title: "Chuanxin Wang"
-    excerpt: "GT Physics Graduate Student"
+    excerpt: "GT Physics Grad Student"
     image_caption: ""
   - image_path: /assets/images/PiyushJha.jpeg
     alt: "Piyush Jha"
     title: "Piyush Jha"
-    excerpt: "GT CS Graduate Student (co-advised)"
+    excerpt: "GT CS Grad Student (co-advised)"
     image_caption: ""
   - image_path: /assets/images/Mani.jpeg
     alt: "Mani Dehghan"
     title: "Mani Dehghan"
-    excerpt: "GT Physics Undergraduate"
+    excerpt: "GT Physics Undergrad"
     image_caption: ""
   - image_path: /assets/images/Yulin.jpg
     alt: "Yulin Guo"
