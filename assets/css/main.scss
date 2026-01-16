@@ -1,6 +1,7 @@
 /* Resize member images in feature_row */
 .feature__image {
-  width: 180px;
-  height: 180px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
   object-fit: cover;
 }
