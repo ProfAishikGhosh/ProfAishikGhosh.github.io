@@ -12,10 +12,12 @@ feature_row:
     alt: "Mani Dehghan"
     title: "Mani Dehghan"
     excerpt: "GT Physics Undergraduate"
+    image_caption: ""
   - image_path: /assets/images/Yulin.jpg
     alt: "Yulin Guo"
     title: "Yulin Guo"
     excerpt: "GT Physics & Math Undergraduate"
+    image_caption: ""
 ---
 
-{% include feature_row %}
+{% include feature_row type="left" %}
