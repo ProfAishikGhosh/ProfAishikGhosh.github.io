@@ -1,6 +1,6 @@
-.members-row img {
-  width: 100px;      /* change size here */
-  height: auto;
-  border-radius: 50%; /* optional: circular photos */
+/* Resize member images in feature_row */
+.feature__image {
+  width: 180px;
+  height: 180px;
   object-fit: cover;
 }
