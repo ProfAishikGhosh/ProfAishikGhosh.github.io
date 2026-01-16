@@ -41,7 +41,8 @@ postdoc:
 #    excerpt: ""
 #    image_caption: ""
 ---
-{% include feature_row id="undergrad" type="center" %}
+# {% include feature_row id="undergrad" type="center" %}
+## Undergraduate Students
 {% include feature_row %}
 {% include feature_row id="grad" type="center" %}
 {% include feature_row id="feature_row2" %}
