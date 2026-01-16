@@ -15,7 +15,8 @@ feature_row:
   - image_path: /assets/images/Yulin.jpg
     alt: "Yulin Guo"
     title: "Yulin Guo"
-    excerpt: "GT Physics & Math Undergraduate"
+    excerpt: "GT Math & Physics Undergraduate"
     image_caption: ""
 ---
 {% include feature_row %}
+{% include feature_row 1%}
