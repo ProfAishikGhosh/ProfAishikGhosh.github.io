@@ -27,6 +27,5 @@ feature_row:
   #  title: "Piyush Jha"
   #  excerpt: "GT CS Grad Student (co-advised)"
   #  image_caption: ""
-"Chuanxin Wang"
 ---
 {% include feature_row %}
