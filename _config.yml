@@ -49,6 +49,7 @@ include:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  url: "https://profaishikghosh.github.io"
   - jekyll-gist
   - jekyll-feed
   - jemoji
