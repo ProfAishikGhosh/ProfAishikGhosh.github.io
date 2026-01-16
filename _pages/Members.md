@@ -6,6 +6,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.1"
 
+intro: 
+  - excerpt: 'Chuanxin Wang (GT Physics Grad Student), Piyush Jha (GT CS Grad Student, co-advised)'
 feature_row:
   - image_path: /assets/images/Mani.jpeg
     alt: "Mani Dehghan"
@@ -29,4 +31,6 @@ feature_row2:
     excerpt: "GT CS Grad Student (co-advised)"
     image_caption: ""
 ---
+{% include feature_row id="intro" type="center" %}
 {% include feature_row %}
+{% include feature_row id="feature_row2" %}
