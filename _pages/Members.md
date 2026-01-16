@@ -34,12 +34,12 @@ feature_row2:
     image_caption: ""
  postdoc:
   - excerpt: 'Postdoc'
- feature_row3:
-  - image_path: /assets/images/hiring.jpeg
-    alt: ""
-    title: ""
-    excerpt: ""
-    image_caption: ""
+# feature_row3:
+#  - image_path: /assets/images/hiring.jpeg
+#    alt: ""
+#    title: ""
+#    excerpt: ""
+#    image_caption: ""
 ---
 {% include feature_row id="undergrad" type="center" %}
 {% include feature_row %}
