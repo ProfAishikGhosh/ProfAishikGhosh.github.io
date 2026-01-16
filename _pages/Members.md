@@ -7,33 +7,33 @@ header:
   overlay_filter: "0.1"
 
 undergrad: 
-  - excerpt: 'Undergraduate students'
+  - excerpt: 'Undergraduate Students'
 feature_row:
   - image_path: /assets/images/Mani.jpeg
     alt: "Mani Dehghan"
     title: "Mani Dehghan"
-    excerpt: "GT Physics Undergrad"
+    excerpt: "GT Physics"
     image_caption: ""
   - image_path: /assets/images/Yulin.jpg
     alt: "Yulin Guo"
     title: "Yulin Guo"
-    excerpt: "GT Math & Physics Undergrad"
+    excerpt: "GT Math & Physics"
     image_caption: ""
 grad: 
-  - excerpt: 'Graduate students'
+  - excerpt: 'Graduate Students'
 feature_row2:
   - image_path: /assets/images/PiyushJha.jpeg
     alt: "Chuanxin Wang"
     title: "Chuanxin Wang"
-    excerpt: "GT Physics Grad Student"
+    excerpt: "GT Physics"
     image_caption: ""
   - image_path: /assets/images/PiyushJha.jpeg
     alt: "Piyush Jha"
     title: "Piyush Jha"
-    excerpt: "GT CS Grad Student (co-advised)"
+    excerpt: "GT CS (co-advised)"
     image_caption: ""
 postdoc:
-  - excerpt: 'Postdoc'
+  - excerpt: 'Postdoctoral Scholar'
 feature_row3:
  - image_path: /assets/images/hiring.jpeg
     alt: "hiring"
