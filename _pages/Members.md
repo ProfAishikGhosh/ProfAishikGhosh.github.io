@@ -1,5 +1,5 @@
 ---
-permalink: /Members--/
+permalink: /Members/
 title: "Members"
 layout: splash
 header:
