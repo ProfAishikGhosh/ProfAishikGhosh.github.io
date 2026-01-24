@@ -8,7 +8,7 @@ We are seeking a highly motivated postdoctoral researcher to join our team. Inte
 
 **Undergraduate and Master's Students Welcome**
 
-Undergraduates and master's students are encouraged to reach out. Please mention what interests you about our work and describe any relevant computing skills you possess. Prof. Ghosh does read and reply to all emails from students (at least your first email).
+Undergraduates and master's students are encouraged to reach out. Please mention what interests you about our work and describe any relevant computing skills you possess. Prof. Ghosh will read and reply to a student's email (at least your first email).
 
 **Prospective Graduate Students**
 
