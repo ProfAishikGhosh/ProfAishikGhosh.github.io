@@ -10,6 +10,8 @@ We are seeking a highly motivated postdoctoral researcher to join our team. Inte
 
 Undergraduates and master's students are encouraged to reach out. Please mention what interests you about our work and describe any relevant computing skills you possess. Prof. Ghosh does read and reply to emails from interested students (at least your first email).
 
+You can also learn about AI-physics research through the AI-physics [jounral club](https://outlook.office365.com/groups/groupsubscription?action=join&smtp=thelearningcurve%40groups.gatech.edu&bO=true) run by physics graduate students.
+
 **Prospective Graduate Students**
 
 We are growing and invite prospective graduate students to apply to Georgia Tech's [graduate program](https://physics.gatech.edu/academics/graduate/admissions-info). In the grad application portal, you can select research directions AI/ML, fundamental physics or astrophysics, depending on your interests. When applying, please mention why you're interested in joining our group. You can join as a student in the School of Physics, the School of Computational Science and Engineering, or potentially another school. Georgia Tech encourages interdisciplinary collaboration, and working across schools and colleges is common.
