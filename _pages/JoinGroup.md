@@ -10,7 +10,7 @@ We are seeking a highly motivated postdoctoral researcher to join our team. Inte
 
 Undergraduates and master's students are encouraged to reach out. Please mention what interests you about our work and describe any relevant computing skills you possess. Prof. Ghosh does read and reply to emails from interested students (at least your first email).
 
-You can also learn about AI-physics research through the AI-physics [jounral club](https://outlook.office365.com/groups/groupsubscription?action=join&smtp=thelearningcurve%40groups.gatech.edu&bO=true) run by physics graduate students.
+You can also learn about AI-physics research through the [jounral club](https://outlook.office365.com/groups/groupsubscription?action=join&smtp=thelearningcurve%40groups.gatech.edu&bO=true) run by physics graduate students.
 
 **Prospective Graduate Students**
 
