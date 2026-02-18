@@ -38,10 +38,11 @@ postdoc:
   - image_path: /assets/images/Sean-Benevedes.jpeg
     alt: "Sean Benevedes"
     title: "Sean Benevedes"
-    excerpt: "Incoming postdoc"
+    excerpt: "Incoming physics postdoc"
     image_caption: ""
 ---
 {% include feature_row id="undergrad" type="center" %}
 {% include feature_row %}
 {% include feature_row id="grad" type="center" %}
 {% include feature_row id="feature_row2" %}
+{% include feature_row id="feature_row3" %}
