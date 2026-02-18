@@ -4,7 +4,7 @@ title: "Join Group"
 ---
 **Postdoctoral Researcher Position(s) Available**
 
-We are seeking a highly motivated postdoctoral researcher to join our team. Interested candidates can find more information on the job posting [here](https://inspirehep.net/jobs/2962185).
+We filled the recent open position by hiring [Sean Benevedes](https://scholar.google.com/citations?user=MHRbRwwAAAAJ&hl=en). We will be seeking highly motivated postdoctoral researcher to join our team again in the near future. We will be seeking a highly motivated postdoctoral researcher to join our team again in the near future. Interested candidates can find more information in the previous job posting [here](https://inspirehep.net/jobs/2962185), as future calls will likely follow similar lines.
 
 **Undergraduate and Master's Students Welcome**
 
