@@ -22,7 +22,7 @@ feature_row:
 grad: 
   - excerpt: 'Graduate Students'
 feature_row2:
-  - image_path: /assets/images/PiyushJha.jpeg
+  - image_path: /assets/images/ChuanxinWang.jpeg
     alt: "Chuanxin Wang"
     title: "Chuanxin Wang"
     excerpt: "GT Physics"
