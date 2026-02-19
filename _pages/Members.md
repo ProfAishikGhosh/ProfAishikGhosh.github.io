@@ -29,8 +29,8 @@ feature_row2:
     image_caption: ""
   - image_path: /assets/images/PiyushJha.png
     alt: "Piyush Jha"
-    title: "[Piyush Jha](https://piyush-j.github.io)"
-    excerpt: "GT CS (co-advised with Prof. Vijay Ganesh)"
+    title: "Piyush Jha"
+    excerpt: "[GT CS](https://piyush-j.github.io) (co-advised with Prof. Vijay Ganesh)"
     image_caption: ""
 postdoc: 
   - excerpt: 'Postdoc'
