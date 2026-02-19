@@ -32,14 +32,14 @@ feature_row2:
     title: "Piyush Jha"
     excerpt: "GT CS (co-advised)"
     image_caption: ""
-# postdoc: 
-#  - excerpt: 'Postdoc'
-# feature_row3:
-#  - image_path: /assets/images/Sean-Benevedes.jpeg
-#    alt: "Sean Benevedes"
-#    title: "Sean Benevedes"
-#    excerpt: "Incoming physics postdoc"
-#    image_caption: ""
+postdoc: 
+  - excerpt: 'Postdoc'
+feature_row3:
+  - image_path: /assets/images/Sean-Benevedes.jpeg
+    alt: "Sean Benevedes"
+    title: "Sean Benevedes"
+    excerpt: "Incoming physics postdoc"
+    image_caption: ""
 ---
 {% include feature_row id="undergrad" type="center" %}
 {% include feature_row %}
