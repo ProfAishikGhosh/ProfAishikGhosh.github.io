@@ -27,7 +27,7 @@ feature_row2:
     title: "Chuanxin Wang"
     excerpt: "GT Physics"
     image_caption: ""
-  - image_path: /assets/images/PiyushJha.jpeg
+  - image_path: /assets/images/PiyushJha.png
     alt: "Piyush Jha"
     title: "Piyush Jha"
     excerpt: "GT CS (co-advised with Prof. Vijay Ganesh)"
