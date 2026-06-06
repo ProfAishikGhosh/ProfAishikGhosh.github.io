@@ -6,5 +6,6 @@ tags:
   - Summer school
   - Georgia Tech
   - Oak Ridge National Laboratory
+  - Fundamental Physics
 link: https://indico.global/event/17000/
 ---
