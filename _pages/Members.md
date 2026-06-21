@@ -19,6 +19,11 @@ feature_row:
     title: "Yulin Guo"
     excerpt: "GT Math & Physics"
     image_caption: ""
+    - image_path: /assets/images/AndyFang.jpg
+    alt: "Andy Fang"
+    title: "Andy Fang"
+    excerpt: "GT Materials Science and Engineering"
+    image_caption: ""
 grad: 
   - excerpt: 'Graduate Students'
 feature_row2:
