@@ -37,7 +37,7 @@ feature_row2:
     title: "Piyush Jha"
     excerpt: "[GT CS](https://piyush-j.github.io) (co-advised with Prof. Vijay Ganesh)"
     image_caption: ""
-  - image_path: /assets/images/Philip.png
+  - image_path: /assets/images/Philip.jpg
     alt: "Philip Velie"
     title: "Philip Velie"
     excerpt: "Short visit grad student from PSU"
