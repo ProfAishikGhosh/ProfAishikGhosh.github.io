@@ -14,7 +14,7 @@ You can also learn about AI-physics research through the [jounral club](https://
 
 **Prospective Graduate Students**
 
-We are growing and invite prospective graduate students to apply to Georgia Tech's [graduate program](https://physics.gatech.edu/academics/graduate/admissions-info). In the grad application portal, you can select research directions AI/ML, fundamental physics or astrophysics, depending on your interests. When applying, please mention why you're interested in joining our group. You can join as a student in the School of Physics, the School of Computational Science and Engineering, or potentially another school. Georgia Tech encourages interdisciplinary collaboration, and working across schools and colleges is common.
+Prospective graduate students should apply to Georgia Tech's [graduate program](https://physics.gatech.edu/academics/graduate/admissions-info). In the application portal, you can select research directions AI/ML, fundamental physics or astrophysics, depending on your interests. When applying, please mention why you're interested in joining our group. You can join as a student in the School of Physics, the School of Computational Science and Engineering, or potentially another school. Georgia Tech encourages interdisciplinary collaboration, and working across schools and colleges is common.
 
 **Unique Facilities at Georgia Tech**
 
