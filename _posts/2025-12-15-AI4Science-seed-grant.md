@@ -1,5 +1,5 @@
 ---
-title: "Awarded Inaugural AI4Science Seed Grant"
+title: "Awarded Inaugural AI4Science Seed Grant To Develop Verified AI"
 categories:
   - News Article
 tags:
