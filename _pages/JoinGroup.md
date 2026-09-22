@@ -4,7 +4,7 @@ title: "Join Group"
 ---
 **Postdoctoral Researcher Position(s)**
 
-We have now filled the position opened in 2025. We will be seeking a highly motivated postdoctoral researcher to join our team again in the future. Interested candidates can find more information in the previous job posting [here](https://inspirehep.net/jobs/2962185), as future calls will likely follow similar lines.
+The School of Physics has launched a named postdoctoral fellowship, interested candidates may apply and list synergies with this group. We have now filled the position opened in 2025. We will be seeking a highly motivated postdoctoral researcher to join our team again in the future. Interested candidates can find more information in the previous job posting [here](https://inspirehep.net/jobs/2962185), as future calls will likely follow similar lines.
 
 **Undergraduate and Master's Students**
 
