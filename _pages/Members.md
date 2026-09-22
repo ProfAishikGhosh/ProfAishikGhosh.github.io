@@ -48,7 +48,7 @@ feature_row3:
   - image_path: /assets/images/Sean-Benevedes.jpeg
     alt: "Sean Benevedes"
     title: "Sean Benevedes"
-    excerpt: "Incoming physics postdoc"
+    excerpt: "Physics postdoc"
     image_caption: ""
 ---
 {% include feature_row id="undergrad" type="center" %}
