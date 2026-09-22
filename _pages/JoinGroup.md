@@ -2,13 +2,13 @@
 permalink: /JoinGroup/
 title: "Join Group"
 ---
-**Postdoctoral Researcher Position(s) Available**
+**Postdoctoral Researcher Position(s)**
 
 We have now filled the position opened in 2025. We will be seeking a highly motivated postdoctoral researcher to join our team again in the future. Interested candidates can find more information in the previous job posting [here](https://inspirehep.net/jobs/2962185), as future calls will likely follow similar lines.
 
-**Undergraduate and Master's Students Welcome**
+**Undergraduate and Master's Students**
 
-Undergraduates and master's students are encouraged to reach out. Please mention what interests you about our work and describe any relevant computing skills you possess. Prof. Ghosh does read and reply to emails from interested students (at least your first email).
+Undergraduates and master's students are welcome to reach out. Prof. Ghosh receives cold emails from students everyday but does reply to interested students. The group does not take high-school students. Please mention what interests you about our work and describe any relevant computing skills you possess. Do not send LLM-generated nonsense.
 
 You can also learn about AI-physics research through the [jounral club](https://outlook.office365.com/groups/groupsubscription?action=join&smtp=thelearningcurve%40groups.gatech.edu&bO=true) run by physics graduate students.
 
