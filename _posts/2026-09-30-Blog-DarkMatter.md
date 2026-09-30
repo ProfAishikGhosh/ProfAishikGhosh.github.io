@@ -1,5 +1,5 @@
 ---
-title: "Blog on AI to explore dark matter experimental signatures"
+title: "Blog on our AI approach to exploring dark matter experimental signatures"
 categories:
 tags:
   - Dark matter
