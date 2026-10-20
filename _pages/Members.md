@@ -35,7 +35,7 @@ feature_row2:
   - image_path: /assets/images/Philip.jpg
     alt: "Philip Velie"
     title: "Philip Velie"
-    excerpt: "Short visit grad student from PSU"
+    excerpt: "Visiting grad student from PSU"
     image_caption: ""
 postdoc: 
   - excerpt: 'Postdoc'
