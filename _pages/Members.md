@@ -47,12 +47,12 @@ feature_row3:
     image_caption: ""
 
 alumni: 
-  - excerpt: 'alumni'
+  - excerpt: 'Alumni'
 feature_row4:
   - image_path: /assets/images/Mani.jpeg
     alt: "Mani Dehghan"
     title: "Mani Dehghan"
-    excerpt: "GT Physics"
+    excerpt: "GT Undergrad -> UCI Grad"
     image_caption: ""
 ---
 {% include feature_row id="undergrad" type="center" %}
