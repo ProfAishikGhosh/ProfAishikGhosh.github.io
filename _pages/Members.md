@@ -9,11 +9,6 @@ header:
 undergrad: 
   - excerpt: 'Undergraduate Students'
 feature_row:
-  - image_path: /assets/images/Mani.jpeg
-    alt: "Mani Dehghan"
-    title: "Mani Dehghan"
-    excerpt: "GT Physics"
-    image_caption: ""
   - image_path: /assets/images/Yulin.jpg
     alt: "Yulin Guo"
     title: "Yulin Guo"
@@ -49,6 +44,15 @@ feature_row3:
     alt: "Sean Benevedes"
     title: "Sean Benevedes"
     excerpt: "Physics postdoc"
+    image_caption: ""
+
+alumni: 
+  - excerpt: 'alumni'
+feature_row4:
+  - image_path: /assets/images/Mani.jpeg
+    alt: "Mani Dehghan"
+    title: "Mani Dehghan"
+    excerpt: "GT Physics"
     image_caption: ""
 ---
 {% include feature_row id="undergrad" type="center" %}
